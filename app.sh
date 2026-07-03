@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "version 3: add nginx check"
+echo "version 4: add nginx check"
 echo "deploying application..."
 echo "这是soft退回后第二版的c版本"
 if systemctl is-active nginx &>/dev/null; then
