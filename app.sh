@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "version 1: hello git"
+echo "version 2: add deploy logic"
+echo "deploying application..."
